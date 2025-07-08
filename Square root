@@ -1,0 +1,12 @@
+class Solution {
+    public int mySqrt(int x) {
+        double result = Math.sqrt(x);
+        int r = (int)result;
+        return r;
+    }
+}
+Input
+x =
+4
+Output
+2
